@@ -549,7 +549,7 @@ elif page == "About":
     This project is licensed under the MIT License.
 
     ### Contact:
-    For any inquiries or support, please contact me at [ragahavareddy696969@gmail.com].
+    For any inquiries or support, please contact me at [raghavareddy696969@gmail.com].
 
     ### Acknowledgments:
     - Special thanks to the open-source community for their contributions and support.
